@@ -2,10 +2,12 @@
 适用于**底部未粘贴标记的0.9版控制器**。<br>ZriCON BMS/IIDX BIG VER 1.0（控制器底部粘贴标记）不适用，请移步[ZriCON BMS/IIDX BIG VER 1.0 相关资源](https://github.com/nocirz/zricon-bms-iidx-big-1.0)<br>
 ## 资源下载
 当前版本：
-+ [ZriCON_BMS_IIDX_BIG_VER_0_9_20200919_firmware.exe](http://123.57.129.211/ZriCON_BMS_IIDX_BIG_VER_0_9_20200919_firmware.exe) 0.9_20200919版本固件更新程序。
-+ [ZriCON BMS-IIDX BIG VER 0_9 音乐游戏控制器使用说明_20200919.pdf](http://123.57.129.211/ZriCON%20BMS-IIDX%20BIG%20VER%200_9%20%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E_20200919.pdf) 控制器说明书，适用固件为0.9_20200919。
++ [ZriCON_BMS_IIDX_BIG_VER_0_9_20201214_firmware.exe](http://123.57.129.211/ZriCON_BMS_IIDX_BIG_VER_0_9_20201214_firmware.exe) 0.9_20201214版本固件更新程序。
++ [ZriCON BMS-IIDX BIG VER 0_9 音乐游戏控制器使用说明_20201214.pdf](http://123.57.129.211/ZriCON%20BMS-IIDX%20BIG%20VER%200_9%20%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E_20201214.pdf) 控制器说明书，适用固件为0.9_20201214。
 
 过往版本：
++ [ZriCON_BMS_IIDX_BIG_VER_0_9_20200919_firmware.exe](http://123.57.129.211/ZriCON_BMS_IIDX_BIG_VER_0_9_20200919_firmware.exe) 0.9_20200919版本固件更新程序。
++ [ZriCON BMS-IIDX BIG VER 0_9 音乐游戏控制器使用说明_20200919.pdf](http://123.57.129.211/ZriCON%20BMS-IIDX%20BIG%20VER%200_9%20%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E_20200919.pdf) 控制器说明书，适用固件为0.9_20200919。
 + [ZriCON_BMS_IIDX_BIG_VER_0_9_20200824_firmware.exe](http://123.57.129.211/ZriCON_BMS_IIDX_BIG_VER_0_9_20200824_firmware.exe) 0.9_20200824版本固件更新程序。
 + [ZriCON BMS-IIDX BIG VER 0_9 音乐游戏控制器使用说明_20200824.pdf](http://123.57.129.211/ZriCON%20BMS-IIDX%20BIG%20VER%200_9%20%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E_20200824.pdf) 控制器说明书，适用固件为0.9_20200824。
 
@@ -16,6 +18,11 @@
 固件更新程序可能会被安全软件拦截，遇到该情况请暂时关闭安全软件。若对程序的安全性有担忧可放弃更新。<br>
 固件更新时需保证串口（COM）上无其它设备，可在设备管理器中检查：<br>![avatar](http://123.57.129.211/mscom.png)<br>如上图中带有COM字样的的非控制器设备需要暂时禁用，固件更新完毕后再启用。
 ## 固件更新内容
+
+固件版本0.9_20201214：
++ 修复设置模式下，先转动转盘再切换到转盘灯光颜色设置时会改变色相的问题
+
+
 固件版本0.9_20200919：
 + 针对新版beatmania IIDX INFINITAS游戏程序设计了新的输出信号逻辑，新增INF信号模式，并取消第2套键盘信号模式，详见该版固件对应的[说明书](http://123.57.129.211/ZriCON%20BMS-IIDX%20BIG%20VER%200_9%20%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E_20200919.pdf)3.1节
 
